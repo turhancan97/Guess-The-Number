@@ -1,6 +1,6 @@
 # Guess The Number
 ## Summary
-This is a simple number guessing game using python and tkinter. This is a small project will for beginners to understand functions and basic GUI design using tkinter.
+This is a simple number guessing game using python and tkinter. This is a small project for beginners to understand functions and basic GUI design using tkinter.
 
 ## How to Run This Project
 ### Requirements
@@ -13,8 +13,8 @@ This is a simple number guessing game using python and tkinter. This is a small 
 
 1. Go to desired folder
 2. Open your command prompt (cmd)
-3. copy and paste `git clone https://github.com/turhancan97/Guess-The-Number.git`
-4. Then write `cd Guess-The-Number` to the command prompt (cmd)
+3. Copy and paste `git clone https://github.com/turhancan97/Guess-The-Number.git`
+4. Then write `cd Guess-The-Number` to the command prompt (cmd) to go to the project files
 5. Finally, write `python number_guess.py` to the command prompt (cmd)
 6. You should see a window like figure below
 
