@@ -12,7 +12,7 @@ This is a simple number guessing game using python and tkinter. This is a small 
 ### Instructions
 
 1. Go to desired folder
-2. Open your command prompt (cmd)
+2. Open your command prompt (cmd) on your desired folder
 3. Copy and paste `git clone https://github.com/turhancan97/Guess-The-Number.git`
 4. Then write `cd Guess-The-Number` to the command prompt (cmd) to go to the project files
 5. Finally, write `python number_guess.py` to the command prompt (cmd)
