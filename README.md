@@ -22,9 +22,11 @@ This is a simple number guessing game using python and tkinter. This is a small 
 > Project Interface
 
 Now, you can generate a random number and enter your guess. If you have correct guess, you will have a message like below:
+
 ![congrat](https://user-images.githubusercontent.com/22428774/147938833-9e80f657-ca5d-4db7-88dc-98b35a8ddba2.PNG)
 > Congratulations message
 
 If you guess the number wrong, the interface will give you some clues like below:
+
 ![clue_example](https://user-images.githubusercontent.com/22428774/147938978-7957186d-3ddc-4712-b05d-6c9f23ff4a1b.PNG)
 > Clue Example
