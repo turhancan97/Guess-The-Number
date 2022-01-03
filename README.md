@@ -1,6 +1,6 @@
 # Guess The Number
 ## Summary
-We will create a simple number guessing game using python and display the scores the player gets if he/she wins. This project will serve as an introduction to functions and creating GUI using Tkinter.
+This is a simple number guessing game using python and tkinter. This is a small project will for beginners to understand functions and basic GUI design using tkinter.
 
 ## How to Run This Project
 ### Requirements
