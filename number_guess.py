@@ -1,4 +1,4 @@
-#TechVidvan's Number Guessing Game
+#Number Guessing Game
 #Import modules
 import random
 from tkinter import *
